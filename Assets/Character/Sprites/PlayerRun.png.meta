@@ -89,8 +89,290 @@ TextureImporter:
   - first:
       213: 21300056
     second: Unity_MC_render_run_28
+  - first:
+      213: -7870276711496609559
+    second: PlayerRun_0
+  - first:
+      213: 1728719941392088379
+    second: PlayerRun_1
+  - first:
+      213: 5511062410843008217
+    second: PlayerRun_2
+  - first:
+      213: 1354115375237695471
+    second: PlayerRun_3
+  - first:
+      213: -4522731149510019502
+    second: PlayerRun_4
+  - first:
+      213: -3909304355900387050
+    second: PlayerRun_5
+  - first:
+      213: 1024027348650785226
+    second: PlayerRun_0
+  - first:
+      213: -4003724678229262708
+    second: PlayerRun_1
+  - first:
+      213: -3122384291069951708
+    second: PlayerRun_2
+  - first:
+      213: -4171180265895828686
+    second: PlayerRun_3
+  - first:
+      213: -8049145941255185672
+    second: PlayerRun_4
+  - first:
+      213: 8745285394022837162
+    second: PlayerRun_5
+  - first:
+      213: -4608814311081262565
+    second: PlayerRun_6
+  - first:
+      213: 2216087602722939322
+    second: PlayerRun_7
+  - first:
+      213: -8985134737584906019
+    second: PlayerRun_8
+  - first:
+      213: -278962620164067431
+    second: PlayerRun_9
+  - first:
+      213: 8017326590455878221
+    second: PlayerRun_10
+  - first:
+      213: -2879030362889265365
+    second: PlayerRun_11
+  - first:
+      213: 4619842580307775365
+    second: PlayerRun_12
+  - first:
+      213: -3996970235735911259
+    second: PlayerRun_13
+  - first:
+      213: -1243577275461484478
+    second: PlayerRun_14
+  - first:
+      213: -7902887484998577660
+    second: PlayerRun_15
+  - first:
+      213: -1417283268605903019
+    second: PlayerRun_16
+  - first:
+      213: -6050297838096650867
+    second: PlayerRun_17
+  - first:
+      213: 8159177994627571640
+    second: PlayerRun_18
+  - first:
+      213: -8551054103183335007
+    second: PlayerRun_19
+  - first:
+      213: -9094225360813572133
+    second: PlayerRun_20
+  - first:
+      213: 8251023408563896726
+    second: PlayerRun_21
+  - first:
+      213: 5352079357881534325
+    second: PlayerRun_22
+  - first:
+      213: 557240814118910973
+    second: PlayerRun_23
+  - first:
+      213: 5961697505910211052
+    second: PlayerRun_24
+  - first:
+      213: 6400184836309144597
+    second: PlayerRun_25
+  - first:
+      213: -4074353013929867244
+    second: PlayerRun_26
+  - first:
+      213: 2138444879546516059
+    second: PlayerRun_27
+  - first:
+      213: -7278963121557226392
+    second: PlayerRun_28
+  - first:
+      213: -6153998360217897598
+    second: PlayerRun_29
+  - first:
+      213: 3055482439984166770
+    second: PlayerRun_30
+  - first:
+      213: -764684450633489890
+    second: PlayerRun_31
+  - first:
+      213: 4583648160667609884
+    second: PlayerRun_32
+  - first:
+      213: -4191245283321381971
+    second: PlayerRun_33
+  - first:
+      213: -1146482120856978087
+    second: PlayerRun_34
+  - first:
+      213: -4900036720065807518
+    second: PlayerRun_35
+  - first:
+      213: -99269364479588539
+    second: PlayerRun_36
+  - first:
+      213: 4182181820123714815
+    second: PlayerRun_37
+  - first:
+      213: -453461743226064050
+    second: PlayerRun_38
+  - first:
+      213: 2639773177052096648
+    second: PlayerRun_39
+  - first:
+      213: 2926480515917152455
+    second: PlayerRun_40
+  - first:
+      213: 3110901742228313913
+    second: PlayerRun_41
+  - first:
+      213: -6349831984995885207
+    second: PlayerRun_42
+  - first:
+      213: 7121529272268949553
+    second: PlayerRun_43
+  - first:
+      213: 1544197318692598202
+    second: PlayerRun_44
+  - first:
+      213: -2707457243028630172
+    second: PlayerRun_45
+  - first:
+      213: -6866596147796914403
+    second: PlayerRun_46
+  - first:
+      213: 3196353818934452705
+    second: PlayerRun_47
+  - first:
+      213: -5683081873994028969
+    second: PlayerRun_48
+  - first:
+      213: -5029995334133478419
+    second: PlayerRun_49
+  - first:
+      213: 6108843609567588320
+    second: PlayerRun_50
+  - first:
+      213: 844976844122964438
+    second: PlayerRun_51
+  - first:
+      213: 8207508615031768748
+    second: PlayerRun_52
+  - first:
+      213: 3351583767752254720
+    second: PlayerRun_53
+  - first:
+      213: -7509254371503438701
+    second: PlayerRun_54
+  - first:
+      213: -1158371049894360634
+    second: PlayerRun_55
+  - first:
+      213: -1018070620243931183
+    second: PlayerRun_56
+  - first:
+      213: -8940766532349889187
+    second: PlayerRun_57
+  - first:
+      213: 8407225097312482670
+    second: PlayerRun_58
+  - first:
+      213: -1207547471557547623
+    second: PlayerRun_59
+  - first:
+      213: 8522582458349983076
+    second: PlayerRun_60
+  - first:
+      213: 7678557877762461259
+    second: PlayerRun_61
+  - first:
+      213: 3344673954111067709
+    second: PlayerRun_62
+  - first:
+      213: -7765097883581579761
+    second: PlayerRun_63
+  - first:
+      213: 716658096161713825
+    second: PlayerRun_64
+  - first:
+      213: -9054066360913619604
+    second: PlayerRun_65
+  - first:
+      213: 8130362477756004274
+    second: PlayerRun_66
+  - first:
+      213: 7294037775201494279
+    second: PlayerRun_67
+  - first:
+      213: -5117562074119326896
+    second: PlayerRun_68
+  - first:
+      213: -794950486268408323
+    second: PlayerRun_69
+  - first:
+      213: -3245454409587133398
+    second: PlayerRun_70
+  - first:
+      213: -4388646481291552804
+    second: PlayerRun_71
+  - first:
+      213: -3862536594877796098
+    second: PlayerRun_72
+  - first:
+      213: -6516183242080916558
+    second: PlayerRun_73
+  - first:
+      213: -7137187458292958832
+    second: PlayerRun_74
+  - first:
+      213: -9193800571627050534
+    second: PlayerRun_75
+  - first:
+      213: -2452383412443845578
+    second: PlayerRun_76
+  - first:
+      213: -6289068901312373761
+    second: PlayerRun_77
+  - first:
+      213: -3420430363423471606
+    second: PlayerRun_78
+  - first:
+      213: 7340204622655846574
+    second: PlayerRun_79
+  - first:
+      213: -3950740834080994351
+    second: PlayerRun_80
+  - first:
+      213: 5299132893960345925
+    second: PlayerRun_81
+  - first:
+      213: 1627306819082325835
+    second: PlayerRun_82
+  - first:
+      213: -5874587711109731407
+    second: PlayerRun_83
+  - first:
+      213: -4547332305649952516
+    second: PlayerRun_84
+  - first:
+      213: 1075078127754538266
+    second: PlayerRun_85
+  - first:
+      213: -2146490426824204107
+    second: PlayerRun_86
+  - first:
+      213: -6278262145523986609
+    second: PlayerRun_87
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -118,7 +400,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -132,7 +414,7 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,10 +426,11 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -156,10 +439,10 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -168,10 +451,10 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -180,18 +463,18 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Unity_MC_render_run_0
+      name: PlayerRun_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 504
-        width: 128
-        height: 126
+        y: 1080
+        width: 470
+        height: 420
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,20 +482,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7379d3b9d156c45449ed8c82880836f6
-      internalID: 21300000
+      spriteID: ac97d94b273163e00800000000000000
+      internalID: 1024027348650785226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unity_MC_render_run_1
+      name: PlayerRun_1
       rect:
         serializedVersion: 2
-        x: 128
-        y: 504
-        width: 128
-        height: 126
+        x: 500
+        y: 1080
+        width: 470
+        height: 420
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,104 +503,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d4bc77219f9c45aabb3b2b0b084b352
-      internalID: 21300002
+      spriteID: c8efda72e99ef68c0800000000000000
+      internalID: -4003724678229262708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unity_MC_render_run_2
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 504
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05d5e315b3c6e4fa38ac35342483ab67
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_3
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 504
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c8241695f8d346b48019075e5bbd117
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_4
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 504
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2eeed219953714de8b1eb5bd18058975
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_5
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 504
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a0ac83442e72f45219c5b7bca4e91cc3
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_6
+      name: PlayerRun_2
       rect:
         serializedVersion: 2
         x: 0
-        y: 378
-        width: 128
-        height: 126
+        y: 580
+        width: 470
+        height: 420
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,20 +524,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74efca5ba1c82405d848e3c55607524b
-      internalID: 21300012
+      spriteID: 4210486c7001ba4d0800000000000000
+      internalID: -3122384291069951708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unity_MC_render_run_7
+      name: PlayerRun_3
       rect:
         serializedVersion: 2
-        x: 128
-        y: 378
-        width: 128
-        height: 126
+        x: 500
+        y: 580
+        width: 470
+        height: 420
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,104 +545,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85d42e67e3a5b4ba8b83246db3878606
-      internalID: 21300014
+      spriteID: 233e825e5adfc16c0800000000000000
+      internalID: -4171180265895828686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unity_MC_render_run_8
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 378
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 282fc6acd92b3448794283f36f9ebee5
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_9
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 378
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f72cc7c16bd647288902c8c250edb1e
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_10
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 378
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64feab14522a9415cab774616fa740e6
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_11
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 378
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b97eb8ac25ff431c9538cde784dca4c
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_12
+      name: PlayerRun_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 252
-        width: 128
-        height: 126
+        y: 80
+        width: 470
+        height: 420
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -451,20 +566,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dc53c7dc3b9e4371b70b07ef2793121
-      internalID: 21300024
+      spriteID: 8fa1532a960bb4090800000000000000
+      internalID: -8049145941255185672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unity_MC_render_run_13
+      name: PlayerRun_5
       rect:
         serializedVersion: 2
-        x: 128
-        y: 252
-        width: 128
-        height: 126
+        x: 500
+        y: 80
+        width: 470
+        height: 420
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,323 +587,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b346d64e2ed914c2486ae5f43c1f19f1
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_14
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 252
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d14bef02420c426c87e4bbb80efa338
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_15
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 252
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57ec161f4e02a4e079e73c31c340bc69
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_16
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 252
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f5737caf67a44dcb839074b0c3188f5
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_17
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 252
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9ab731b9fbc040e6afb712a94890ba3
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_18
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 126
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c42fc233fb43749d399f557acca3242c
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_19
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 126
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4124464b66b5b4ceb81ad0e9c6b57f47
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_20
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 126
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3a8c463863f747b89582bb6add314e2
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_21
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 126
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5f3faa117c8345a8b2f79ce60fc1c8d
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_22
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 126
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20e29e49562f14d5a9f4ee509e6b5120
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_23
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 126
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 469f80ef882c248dcb3c26c80537c32e
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_24
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56e44b03a9831474badcf5f5d18356cf
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_25
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3656c077d53814433ba543194ed72507
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_26
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b010ab404cff04472844e7902e544ec3
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_27
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51d59629d715d40a4b01e2aba8228b0a
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unity_MC_render_run_28
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c47d5e7f55214bb39456db2f5061c35
-      internalID: 21300056
+      spriteID: aaba42a3bbe7d5970800000000000000
+      internalID: 8745285394022837162
       vertices: []
       indices: 
       edges: []
