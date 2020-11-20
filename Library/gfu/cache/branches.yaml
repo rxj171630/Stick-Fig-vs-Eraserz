@@ -13,22 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-10-12T23:56:53.201-05:00
-  initializedAtString: 2020-10-12T23:54:58.365-05:00
-  localBranches:
-  - name: master
-    tracking: 
+  lastUpdatedAtString: 2020-11-20T06:50:58.548-06:00
+  initializedAtString: 2020-11-20T06:16:28.804-06:00
+  localBranches: []
   remoteBranches: []
   remotes: []
   localConfigBranches:
-    keys:
-    - master
-    values:
-    - name: master
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
+    keys: []
+    values: []
   remoteConfigBranches:
     keys: []
     subKeys: []
