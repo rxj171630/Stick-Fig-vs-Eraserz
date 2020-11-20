@@ -1,5 +1,5 @@
 
-=== Mon Oct 12 23:27:32 2020
+=== Thu Nov 19 00:15:14 2020
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -7,7 +7,7 @@ Update Mode: mergeDefaultDependencies
 The following packages were added:
   com.unity.collab-proxy@1.2.16
   com.unity.ide.rider@1.1.4
-  com.unity.ide.vscode@1.2.1
+  com.unity.ide.vscode@1.2.3
   com.unity.modules.ai@1.0.0
   com.unity.modules.androidjni@1.0.0
   com.unity.modules.cloth@1.0.0
@@ -19,7 +19,9 @@ The following packages were added:
   com.unity.modules.unityanalytics@1.0.0
   com.unity.modules.vehicles@1.0.0
   com.unity.modules.wind@1.0.0
-  com.unity.test-framework@1.1.16
+  com.unity.test-framework@1.1.18
 The following packages were updated:
+  com.unity.cinemachine from version 2.5.0 to 2.6.3
+  com.unity.postprocessing from version 2.3.0 to 3.0.1
   com.unity.textmeshpro from version 2.0.1 to 2.1.1
   com.unity.timeline from version 1.2.14 to 1.2.17
