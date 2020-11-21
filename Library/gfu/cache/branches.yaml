@@ -13,18 +13,47 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-20T06:50:58.548-06:00
-  initializedAtString: 2020-11-20T06:16:28.804-06:00
-  localBranches: []
-  remoteBranches: []
-  remotes: []
+  lastUpdatedAtString: 2020-11-20T23:27:38.303-06:00
+  initializedAtString: 2020-11-20T22:38:07.352-06:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/rxj171630/CS4341-Group20.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/rxj171630/CS4341-Group20.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/rxj171630/CS4341-Group20.git
+        trackingBranch: 
   configRemotes:
-    keys: []
-    values: []
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/rxj171630/CS4341-Group20.git

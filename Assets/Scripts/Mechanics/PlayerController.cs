@@ -34,7 +34,7 @@ namespace Platformer.Mechanics
         public Health health;
         public bool controlEnabled = true;
 
-        bool jump;
+        bool jump, attack;
         Vector2 move;
         SpriteRenderer spriteRenderer;
         internal Animator animator;
@@ -70,6 +70,23 @@ namespace Platformer.Mechanics
             }
             UpdateJumpState();
             base.Update();
+            if (Input.GetButtonDown("Fire1"))
+            {
+                attack = true;
+            }
+            else
+            {
+                attack = false;
+            }
+            attackHandler();
+        }
+
+        private void attackHandler()
+        {
+            if (attack)
+            {
+                animator.SetTrigger("attack");
+            }
         }
 
         void UpdateJumpState()
