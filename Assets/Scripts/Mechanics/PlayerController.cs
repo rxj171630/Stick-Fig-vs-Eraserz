@@ -33,8 +33,9 @@ namespace Platformer.Mechanics
         /*internal new*/ public AudioSource audioSource;
         public Health health;
         public bool controlEnabled = true;
+        public int attackTimeout = 0;
 
-        bool jump, attack;
+        public bool jump, attack, attacking;
         Vector2 move;
         SpriteRenderer spriteRenderer;
         internal Animator animator;
@@ -77,6 +78,21 @@ namespace Platformer.Mechanics
             else
             {
                 attack = false;
+                attacking = false;
+            }
+            if (Input.GetButton("Fire1"))
+            {
+                attacking = true;
+                attackTimeout++;
+                if (attackTimeout >= 20)
+                {
+                    attacking = false;
+                    attack = false;
+                }
+            }
+            else
+            {
+                attackTimeout = 0;
             }
             attackHandler();
         }
