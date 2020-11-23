@@ -74,34 +74,42 @@ namespace Platformer.Mechanics
             if (Input.GetButtonDown("Fire1"))
             {
                 attack = true;
+                attackHandler();
             }
-            else
+            else if (Input.GetButtonUp("Fire1"))
             {
                 attack = false;
                 attacking = false;
+                attackHandler();
             }
             if (Input.GetButton("Fire1"))
             {
                 attacking = true;
                 attackTimeout++;
-                if (attackTimeout >= 20)
+                if (attackTimeout >= 15)
                 {
                     attacking = false;
                     attack = false;
+                    attackHandler();
                 }
             }
             else
             {
                 attackTimeout = 0;
             }
-            attackHandler();
         }
 
-        private void attackHandler()
+        void attackHandler()
         {
             if (attack)
             {
+                animator.ResetTrigger("idle");
                 animator.SetTrigger("attack");
+            }
+            else
+            {
+                animator.ResetTrigger("attack");
+                animator.SetTrigger("idle");
             }
         }
 
