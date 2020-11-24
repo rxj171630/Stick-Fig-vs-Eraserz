@@ -29,7 +29,6 @@ ScriptsOnlyBuild:
     - GitHub.Unity.GitLocksCache
     - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
-    - GitHub.Unity.GitUserCache
     - GitHub.Unity.RepositoryInfoCache
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
